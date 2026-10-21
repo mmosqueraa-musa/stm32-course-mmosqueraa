@@ -1,4 +1,4 @@
-// Tarea 1 - Taller V: contador con dos photo-interruptores y un display de 7 segmentos de 4 digitos.
+// Maria de los Angeles Mosquera - Tarea 1 - Taller V: contador con dos photo-interruptores y un display de 7 segmentos de 4 digitos.
 // Todo esta escrito bare-metal, configurando los registros directamente con las definiciones de CMSIS.
 //
 // HARDWARE QUE USE
